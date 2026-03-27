@@ -1,0 +1,11 @@
+Flask
+Flask-MySQLdb
+Flask-Cors
+email-validator
+mysqlclient
+numpy
+joblib
+sentence-transformers
+scikit-learn
+Flask-Mail
+pandas
